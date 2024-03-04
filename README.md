@@ -1,5 +1,3 @@
-# bin2dec
-
 # Bin2Dec
 
 **Tier:** 1-Beginner
