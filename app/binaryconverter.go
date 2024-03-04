@@ -42,7 +42,7 @@ func (bd *Bin2DecConverter) IsValid() (bool, error) {
 		if bin == shared.One || bin == shared.Zero {
 			continue
 		}
-		return false, shared.ErrInvalidBinary 
+		return false, shared.ErrInvalidBinary
 	}
 
 	return true, nil
